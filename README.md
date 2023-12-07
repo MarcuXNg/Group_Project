@@ -28,3 +28,15 @@
 
 - Nguyen Trung Kien
 - Hoang Quoc Minh Quan
+
+### Install
+
+`npm install` to install all packages
+
+### Run
+
+`npm start` to run
+
+### Clone
+
+`git clone --recursive -b [branchname] [url]` to clone

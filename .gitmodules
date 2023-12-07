@@ -1,3 +1,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/MarcuXNg/FitnessRevive_BackEnd.git
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/MarcuXNg/FitnessRevive_FrontEnd.git

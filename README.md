@@ -29,6 +29,10 @@
 - Nguyen Trung Kien
 - Hoang Quoc Minh Quan
 
+### SuperVisor
+
+- Kieu Quoc Viet
+
 ### Install
 
 `npm install` to install all packages
@@ -40,3 +44,11 @@
 ### Clone
 
 `git clone --recursive -b [branchname] [url]` to clone
+
+### update to repo
+
+`git add .`, `git commit -m 'message'` and `git push` in each subfolder to push to repo
+
+### git submodule add
+
+`git submodule add <gitUrl> <FolderName>`

@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "concurrently": "^8.2.2"
+  },
+  "name": "fitnessrevive",
+  "version": "1.0.0",
+  "main": "",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"npm run start:frontend\" \"npm run start:backend\"",
+    "start:frontend": "cd FrontEnd && npm start",
+    "start:backend": "cd BackEnd && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcuXNg/Group_Project.git"
+  },
+  "author": "MarcuX",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcuXNg/Group_Project/issues"
+  },
+  "homepage": "https://github.com/MarcuXNg/Group_Project#readme",
+  "description": ""
+}

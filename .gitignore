@@ -1,0 +1,33 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Ignore node_modules directory in the root
+node_modules/
+
+# Ignore specific files in the BackEnd directory
+BackEnd/.env
+BackEnd/.eslintrc.json
+
+# Ignore specific files and directories in the FrontEnd directory
+FrontEnd/.env
+FrontEnd/.eslintrc.json
+FrontEnd/node_modules/
+
+# Ignore PnP files
+FrontEnd/.pnp
+FrontEnd/.pnp.js
+
+# Ignore testing artifacts in the FrontEnd directory
+FrontEnd/coverage
+
+# Ignore production artifacts in the FrontEnd directory
+FrontEnd/build
+
+# Ignore miscellaneous files in the FrontEnd directory
+FrontEnd/.DS_Store
+FrontEnd/.env.local
+FrontEnd/.env.development.local
+FrontEnd/.env.test.local
+FrontEnd/.env.production.local
+FrontEnd/npm-debug.log*
+FrontEnd/yarn-debug.log*
+FrontEnd/yarn-error.log*

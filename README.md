@@ -33,6 +33,14 @@
 
 - Kieu Quoc Viet
 
+## Contribution
+- Nguyen Trung Kien (60%)
+- Hoang Quoc Minh Quan (20%)
+- Nguyen Duc Phuc Tuong (2%)
+- Nguyen Khang Ninh (2%)
+- Nguyen Thai Duong (4%)
+- Tang Minh Tri (2%)
+- Tran Ngoc Hai (2%)
 ### Install
 
 `npm install` to install all packages
